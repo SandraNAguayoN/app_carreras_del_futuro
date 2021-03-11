@@ -1,0 +1,15 @@
+{
+    "nombreApp" : "Relaciones Humanas",
+    "rutas" : [
+        {
+            "ruta" : "psicologia",
+            "icon" : "child_care",
+            "texto": "Psicología"
+        },
+        {
+            "ruta" : "recursos_humanos",
+            "icon" : "accessibility",
+            "texto": "Recursos Humanos"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "nombreApp" : "Áreas",
+    "rutas" : [
+        {
+            "ruta" : "medicina_multidisciplinaria",
+            "icon" : "medical_services",
+            "texto": "Medicina Multidisciplinaria"
+        },
+        {
+            "ruta" : "desarrollo_sustentable",
+            "icon" : "public",
+            "texto": "Desarrollo Sustentable"
+        },
+        {
+            "ruta" : "nuevas_tecnologias",
+            "icon" : "devices",
+            "texto": "Nuevas Tecnologías"
+        },        
+        {
+            "ruta" : "relaciones_humanas",
+            "icon" : "supervised_user_circle",
+            "texto": "Relaciones Humanas"
+        }
+    ]
+}

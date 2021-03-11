@@ -1,0 +1,20 @@
+{
+    "nombreApp" : "Desarrollo Sustentable",
+    "rutas" : [
+        {
+            "ruta" : "ciencias_ambientales",
+            "icon" : "wb_sunny_sharp",
+            "texto": "Ciencias Ambientales"
+        },
+        {
+            "ruta" : "ciencias_agroforestales",
+            "icon" : "local_florist",
+            "texto": "Ciencias Agroforestales"
+        },
+        {
+            "ruta" : "sistemas_energeticos",
+            "icon" : "battery_charging_full",
+            "texto": "Sistemas Energéticos"
+        }
+    ]
+}

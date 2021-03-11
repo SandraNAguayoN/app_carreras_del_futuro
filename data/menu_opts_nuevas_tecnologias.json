@@ -1,0 +1,30 @@
+{
+    "nombreApp" : "Nuevas Tecnologías",
+    "rutas" : [
+        {
+            "ruta" : "ciberseguridad",
+            "icon" : "screen_lock_portrait",
+            "texto": "Ciberseguridad"
+        },
+        {
+            "ruta" : "ciencias_de_datos",
+            "icon" : "dashboard_outlined",
+            "texto": "Ciencias de Datos"
+        },
+        {
+            "ruta" : "electronica",
+            "icon" : "electrical_services_rounded",
+            "texto": "Electrónica"
+        },
+        {
+            "ruta" : "inteligencia_artificial",
+            "icon" : "remove_red_eye",
+            "texto": "Inteligencia Artificial"
+        },
+        {
+            "ruta" : "robotica",
+            "icon" : "precision_manufacturing_rounded",
+            "texto": "Robótica"
+        }
+    ]
+}

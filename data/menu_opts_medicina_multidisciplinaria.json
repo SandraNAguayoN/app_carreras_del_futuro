@@ -1,0 +1,20 @@
+{
+    "nombreApp" : "Medicina Multidisciplinaria",
+    "rutas" : [
+        {
+            "ruta" : "biomedicina",
+            "icon" : "airline_seat_flat_angled",
+            "texto": "Biomedicina"
+        },
+        {
+            "ruta" : "biotecnologia",
+            "icon" : "biotech",
+            "texto": "Biotecnología"
+        },
+        {
+            "ruta" : "genetica",
+            "icon" : "wc",
+            "texto": "Génetica"
+        }
+    ]
+}
